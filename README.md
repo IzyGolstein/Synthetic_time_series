@@ -1,13 +1,14 @@
 # Synthetic time series
 
-## Authors (telegram):
+### Authors (telegram):
 Neural Network developers : @avo_milas, @ko4osik
 
 ETS decomposition and code aggregation: @rasokurov, @Izy_Golstein
 
 Researcher: @capibaraAttila
 
-- **Project Description:** Developed an algorithm to create synthetic time series data that closely resembles real-world trends, intended for use in multiple applications.
+### Project
+- **Description:** Developed an algorithm to create synthetic time series data that closely resembles real-world trends, intended for use in multiple applications.
 - **Key Achievements:**
   - Enhanced the testing and accuracy of forecasting algorithms by expanding the dataset through data augmentation.
   - Ensured data confidentiality and anonymity by utilizing synthetic data in sensitive usage scenarios.
