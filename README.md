@@ -12,6 +12,7 @@
 - **Examples of generated time series:**
   - Diffusion with ETS decomposition
 <img width="931" alt="image" src="https://github.com/user-attachments/assets/9f1a27fa-9da3-49a6-a2da-434ba1ddcaec">
+
   - Diffusion model only
 <img width="934" alt="image" src="https://github.com/user-attachments/assets/4454b6ab-768f-418f-8d70-e1b04d76b775">
 
